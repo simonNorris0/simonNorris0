@@ -1,7 +1,20 @@
-### Hi there 👋
+### About me
 
+| Rank | Languages |
+|-----:|-----------|
+|     1| Java      |
+|     2| C         |
+|     3| Python    |
+|     4| SQL       |
+
+Current tasks:
+- [x] Submit Wonderland (Finish COMP 268)
+- [ ] Setup COMP 272 Repository (Algorithms)
+- [ ] Setup COMP 314 Repository (OPSys)
+- [ ] Setup COMP 325 Repository (UNIX)
+- [ ] Setup COMP 308 Repository (Java)
 <!--
-**simonNorris0/simonNorris0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
