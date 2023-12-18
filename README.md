@@ -8,7 +8,7 @@
 |     4| Python    |
 |     5| SQL       |
 
-Current tasks:
+Current tasks: (due Dec 24)
 - [ ] comp272 assignment 1 (java or C++)
 - [ ] comp308 assignment 1 (java)
 - [ ] comp314 assignment 1 (pseudo)
