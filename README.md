@@ -4,11 +4,15 @@
 |-----:|-----------|
 |     1| Java      |
 |     2| C         |
-|     3| Python    |
-|     4| SQL       |
+|     3| C++       |
+|     4| Python    |
+|     5| SQL       |
 
 Current tasks:
-- [x] Studying..
+- [ ] comp272 assignment 1 (java or C++)
+- [ ] comp308 assignment 1 (java)
+- [ ] comp314 assignment 1 (pseudo)
+- [ ] comp325 assignment 1 (C)
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
