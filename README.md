@@ -8,7 +8,7 @@
 |     4| Python    |
 |     5| SQL       |
 
-`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery
+`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery  
 interested in the development of system applications for BSD systems`    
 `4th year B.sc. Computer Science`
 
