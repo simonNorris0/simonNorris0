@@ -10,6 +10,7 @@
 
 `developing standards-based web applications with HTML5, CSS, JavaScript & jQuery`    
 `interested in the development of system applications for BSD systems`      
+`learning software development and OOP with Java/C++`
 `4th year B.sc. Computer Science`  
 
 Current tasks: (due Dec 24)
