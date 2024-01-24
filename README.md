@@ -8,11 +8,15 @@
 |     4| Python    |
 |     5| SQL       |
 
+developing standards-based web applications with HTML5, CSS, JavaScript & jQuery
+interested in the development of system applications for BSD systems
+4th year B.sc. Computer Science
+
 Current tasks: (due Dec 24)
-- [ ] comp272 assignment 1 (java or C++)
-- [ ] comp308 assignment 1 (java)
-- [ ] comp314 assignment 1 (pseudo)
-- [ ] comp325 assignment 1 (C)
+- [x] comp272 assignment 1 (java or C++)
+- [x] comp308 assignment 1 (java)
+- [x] comp314 assignment 1 (pseudo)
+- [x] comp325 assignment 1 (C)
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
