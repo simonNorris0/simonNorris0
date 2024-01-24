@@ -8,9 +8,9 @@
 |     4| Python    |
 |     5| SQL       |
 
-`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery  
-interested in the development of system applications for BSD systems`    
-`4th year B.sc. Computer Science`
+`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery`    
+`interested in the development of system applications for BSD systems`      
+`4th year B.sc. Computer Science`  
 
 Current tasks: (due Dec 24)
 - [x] comp272 assignment 1 (java or C++)
