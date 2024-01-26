@@ -1,23 +1,21 @@
 ### About me
+  Simon Norris
+  `3rd year B.Sc. Computer Science`
+  `OpenBSD7.4`
 
-| Rank | Languages |
-|-----:|-----------|
-|     1| Java      |
-|     2| C         |
-|     3| C++       |
-|     4| Python    |
-|     5| SQL       |
-
-`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery`    
-`interested in the development of system applications for BSD systems`      
-`learning software development and OOP with Java/C++`  
-`4th year B.Sc. Computer Science`  
+Network programming / Security focused
+`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery, PHP, and Python`
+`developing a private web server with the CGI, PHP, and Python`
+`interested in the development of system applications for BSD systems with C and shell scripting languages`      
+`..learning software development and OOP with Java, C++, C#/.NET, and Python`
+`..learning database development with SQL`  
 
 Current tasks: (due Dec 24)
 - [x] comp272 assignment 1 (java or C++)
 - [x] comp308 assignment 1 (java)
 - [x] comp314 assignment 1 (pseudo)
 - [x] comp325 assignment 1 (C)
+- [ ] Portfolio (personal website) project (HTML/CSS/JavaScript/PHP/Python)
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
