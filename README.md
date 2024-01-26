@@ -1,14 +1,14 @@
 ### About me
-  Simon Norris  
-  `3rd year B.Sc. Computer Science`  
+  Simon Norris    
+  `3rd year B.Sc. Computer Science`    
   `OpenBSD7.4`  
 
 Network programming / Security focused  
-`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery, PHP, and Python`
-`developing a private web server with the CGI, PHP, and Python`
-`interested in the development of system applications for BSD systems with C and shell scripting languages`      
-`..learning software development and OOP with Java, C++, C#/.NET, and Python`
-`..learning database development with SQL`  
+`developing standards-based web applications with HTML5, CSS, JavaScript & jQuery, PHP, and Python`  
+`developing a private web server with the CGI, PHP, and Python`  
+`interested in the development of system applications for BSD systems with C and shell scripting languages`        
+`..learning software development and OOP with Java, C++, C#/.NET, and Python`  
+`..learning database development with SQL`    
 
 Current tasks: (due Dec 24)  
 - [x] comp272 assignment 1 (java or C++)
