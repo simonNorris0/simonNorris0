@@ -5,7 +5,6 @@
 
 Network programming / Security focused  
 `developing standards-based web applications with HTML5, CSS, JavaScript & jQuery, PHP, and Python`  
-`developing a private web server with the CGI, PHP, and Python`  
 `interested in the development of system applications for BSD systems with C and shell scripting languages`        
 `..learning software development and OOP with Java, C++, C#/.NET, and Python`  
 `..learning database development with SQL`    
