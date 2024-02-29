@@ -3,7 +3,7 @@
   `3rd year B.Sc. Computer Science`    
   `OpenBSD7.4`    
 
-Current tasks: (due Dec 24)  
+Current tasks:  
 - [x] comp272 assignment 1 (java or C++)
 - [x] comp308 assignment 1 (java)
 - [x] comp314 assignment 1 (pseudo)
