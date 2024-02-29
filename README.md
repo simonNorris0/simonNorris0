@@ -4,11 +4,11 @@
   `OpenBSD7.4`    
 
 Current tasks:  
-- [x] comp272 assignment 1 (java or C++)
-- [x] comp308 assignment 1 (java)
-- [x] comp314 assignment 1 (pseudo)
-- [x] comp325 assignment 1 (C)
-- [ ] Portfolio (personal website) project (HTML/CSS/JavaScript/PHP/Python)
+- [x] comp272 assignment 1 
+- [x] comp308 assignment 1 
+- [x] comp314 assignment 1 
+- [x] comp325 assignment 1 
+- [ ] Portfolio (personal website) project
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
