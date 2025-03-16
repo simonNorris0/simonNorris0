@@ -1,6 +1,6 @@
 ### About me
   Simon Norris    
-  `2nd year B.Sc. Computer Science`    
+  `3rd year B.Sc. Computer Science`    
   `OpenBSD7.4`    
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
