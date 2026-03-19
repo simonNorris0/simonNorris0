@@ -1,6 +1,5 @@
 ### About me
-  Simon Norris    
-  `4th year B.Sc. Computer Science`    
+  Simon Norris      
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
