@@ -1,5 +1,5 @@
 #### Simon Norris 
-  ## 2nd year computer science student - minor in applied mathematics
+  ## 2nd year computer science student - minor in applied mathematics - current GPA: 4.0/4.0
 
   # Language Fluency:
   <ol>
@@ -38,3 +38,25 @@
     <li><b>simonNorris0.github.io</b> - personal webpage / webpage programming sandbox</li>
     <li>...</li>
   </ul>
+
+  # Work Experience:
+  <ul>
+    <li><b>September 2023 - Present</b>Demonstratable profficiency with <b>remote work</b> during 
+    distance education - <b>Athabasca University - BSc. Computing and Information Systems - minor in 
+    Applied Mathematics</li>
+    <li>...</li>
+  </ul>
+
+  # Awards and Scholarships:
+  <ul>
+    <li>...</li>
+  </ul>
+
+  # Publications:
+  <ul>
+    <li>...</li>
+  </ul>
+
+  #### Email: simonmjnorris@gmail.com
+  #### Personal Website: 
+  #### Last Updated: March 24, 2026
