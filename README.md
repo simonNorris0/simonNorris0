@@ -42,7 +42,7 @@
     <li>...</li>
   </ul>
 
-  # Work Experience:
+  # Work Experience / Education:
   <ul>
     <li><b>[September 2023 - Present]</b><br> 
       Demonstratable profficiency with <b>remote work</b> during distance education.<br>
