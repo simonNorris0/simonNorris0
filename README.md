@@ -44,9 +44,10 @@
 
   # Work Experience:
   <ul>
-    <li><b>September 2023 - Present</b> 
-      Demonstratable profficiency with <b>remote work</b> during distance education - <b>Athabasca 
-      University - BSc. Computing and Information Systems - minor in Applied Mathematics</li>
+    <li><b>[September 2023 - Present]</b><br> 
+      Demonstratable profficiency with <b>remote work</b> during distance education.<br>
+      <b>Athabasca University - BSc. Computing and Information Systems - minor in 
+        Applied Mathematics</b></li>
     <li>...</li>
   </ul>
 
