@@ -70,7 +70,7 @@
   # Address:
   #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
   #### <a href="https://simonnorris0.github.io">Personal Website</a>
-  #### <a href="https://www.linkedin.com/in/simon-norris-2621943b9/">LinkedIn Profile</a>
+  #### <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
   #### <a href="https://discord.gg/XbyB7hFS">Discord User</a>
   #### <a href="https://leetcode.com/u/qwHhfT0pIB/">LeetCode Profile</a>
   #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
