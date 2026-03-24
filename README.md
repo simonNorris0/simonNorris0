@@ -3,24 +3,25 @@
 #### (57/120 credits)
 #### Current GPA: 4.0/4.0 
 #
-  # Language Fluency:
+  # Language Fluency (ordered by proficiency):
   <ol>
-    <li>Java</li>
-    <li>C/C++</li> 
+    <li><b>Java</b></li>
+    <li><b>C/C++</b></li>
+    <li><b>Shell Scripting (bash, csh, Powershell)</b></li>
     <li>Python</li>
     <li>HTML/CSS/JavaScript</li>
+    <li>Perl/Lisp</li>
   </ol>
 
   # Interests:
   <ul>
     <li>Distributed computing</li>
-    <li>Network programming and engineering</li>
+    <li>Network programming and servers</li>
     <li>Databases</li>
     <li>Cloud computing</li>
-    <li>Operating systems</li>
-    <li>Data structures and numerical algorithms</li>
+    <li>Operating systems and computer architecture</li>
+    <li>Number theory and data structures</li>
     <li>Embedded systems / microcontrollers</li>
-    <li>Number theory and mathematical models</li>
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 
@@ -34,12 +35,16 @@
 
   # Independent Project Highlights (non-school projects):
   <ul>
-    <li><a href="https://github.com/simonNorris0/ChessMapper"><b>ChessMapper</b></a> - a 
-      single-user program to study recorded chess games</li>
-    <li><b>FlightDaemon</b> - a flight controller for small quad-copter drones</li>
-    <li><b>RCDaemon</b> - a radio-control module for small quad-copter drones</li>
-    <li><b>LaunchDaemon</b> - a programmable launch controller for model rockets</li>
-    <li><b>simonNorris0.github.io</b> - personal webpage / webpage programming sandbox</li>
+    <li><a href="https://github.com/simonNorris0/ChessMapper"><b>ChessMapper</b></a> - 
+      a single-user program to study recorded chess games</li>
+    <li><a href="https://github.com/simonNorris0/Flightdaemon"><b>FlightDaemon</b></a> - 
+      a flight controller for small quad-copter drones</li>
+    <li><a href="https://github.com/simonNorris0/RCDaemon"><b>RCDaemon</b></a> - 
+      a radio-control module for small quad-copter drones</li>
+    <li><a href="https://github.com/simonNorris0/LaunchDaemon"><b>LaunchDaemon</b></a> - 
+      a programmable launch controller for model rockets</li>
+    <li><a href="https://github.com/simonNorris0/simonNorris0.github.io">
+      <b>simonNorris0.github.io</b></a> - personal webpage / web programming sandbox</li>
     <li>...</li>
   </ul>
 
@@ -62,6 +67,12 @@
     <li>...</li>
   </ul>
 
-  #### Email: simonmjnorris@gmail.com
+  <address>
+  #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
   #### <a href="https://simonnorris0.github.io">Personal Website</a>
+  #### <a href="https://www.linkedin.com/in/simon-norris-2621943b9/">LinkedIn Profile</a>
+  #### <a href="https://discord.gg/XbyB7hFS">Discord User</a>
+  #### <a href="https://leetcode.com/u/qwHhfT0pIB/">LeetCode Profile</a>
+  #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
+  </address>
   #### Last Updated: March 24, 2026
