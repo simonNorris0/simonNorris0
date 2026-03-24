@@ -1,11 +1,13 @@
 #### Simon Norris 
-  ## 2nd year computer science student - minor in applied mathematics - current GPA: 4.0/4.0
+#### 2nd Year Computer Science Student - minor in Applied Mathematics
+### Current GPA: 4.0/4.0 (57/120 credits)
 
   # Language Fluency:
   <ol>
     <li>Java</li>
     <li>C/C++</li> 
     <li>Python</li>
+    <li>HTML/CSS/JavaScript</li>
   </ol>
 
   # Interests:
@@ -41,7 +43,7 @@
 
   # Work Experience:
   <ul>
-    <li><b>September 2023 - Present</b>Demonstratable profficiency with <b>remote work</b> during 
+    <li><b>September 2023 - Present</b> Demonstratable profficiency with <b>remote work</b> during 
     distance education - <b>Athabasca University - BSc. Computing and Information Systems - minor in 
     Applied Mathematics</li>
     <li>...</li>
