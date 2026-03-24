@@ -1,46 +1,41 @@
 ### About me
-  Simon Norris
-  2nd year computer science student - minor in applied mathematics.
+  ## Simon Norris
+  ## 2nd year computer science student - minor in applied mathematics.
 
-  Language fluency:
-  (1) Java
-  (2) C 
-  (3) Python
+  <ol>
+    Language fluency:
+    <li>Java</li>
+    <li>C/C++</li> 
+    <li>Python</li>
+  </ol>
 
-  Interests:
-  Distributed computing
-  Network programming and engineering
-  Databases
-  Cloud computing
-  Operating systems
-  Data structures and numerical algorithms
-  Number theory and mathematical models
-  Quad-copter drones, model rockets, and chess
+  </ul>
+    Interests:
+    <li>Distributed computing</li>
+    <li>Network programming and engineering</li>
+    <li>Databases</li>
+    <li>Cloud computing</li>
+    <li>Operating systems</li>
+    <li>Data structures and numerical algorithms</li>
+    <li>Embedded systems / microcontrollers</li>
+    <li>Number theory and mathematical models</li>
+    <li>Quad-copter drones, model rockets, and chess</li>
+  </ul>
 
-  Course highlights:
-  Data structures / algorithms
-  Operating systems
-  UNIX administration
-  ...
+  <ul>
+    Course highlights:
+    <li>Data structures / algorithms</li>
+    <li>Operating systems</li>
+    <li>UNIX administration</li>
+    <li>...</li>
+  </ul>
 
-  Independent Project highlights (non-school projects):
-  ChessMapper - a single-user program to study recorded chess games
-  FlightDaemon - a flight controller for small quad-copter drones
-  RCDaemon - a radio-control module for small quad-copter drones
-  LaunchDaemon - a programmable launch controller for model rockets
-  simonNorris0.github.io - personal webpage / webpage programming sandbox
-  ...
-<!--
-**Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <ul>
+    Independent Project highlights (non-school projects):
+    <li>ChessMapper - a single-user program to study recorded chess games</li>
+    <li>FlightDaemon - a flight controller for small quad-copter drones</li>
+    <li>RCDaemon - a radio-control module for small quad-copter drones</li>
+    <li>LaunchDaemon - a programmable launch controller for model rockets</li>
+    <li>simonNorris0.github.io - personal webpage / webpage programming sandbox</li>
+    <li>...</li>
+  </ul>
