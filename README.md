@@ -1,5 +1,4 @@
-### About me
-  # Simon Norris 
+### Simon Norris 
   ## 2nd year computer science student - minor in applied mathematics.
 
   # Language Fluency:
