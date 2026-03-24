@@ -9,7 +9,7 @@
     <li>Python</li>
   </ol>
 
-  </ul>
+  <ul>
     Interests:
     <li>Distributed computing</li>
     <li>Network programming and engineering</li>
