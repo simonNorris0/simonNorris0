@@ -34,7 +34,8 @@
 
   # Independent Project Highlights (non-school projects):
   <ul>
-    <li><b>ChessMapper</b> - a single-user program to study recorded chess games</li>
+    <li><a href="https://github.com/simonNorris0/ChessMapper"><b>ChessMapper</b></a> - a 
+      single-user program to study recorded chess games</li>
     <li><b>FlightDaemon</b> - a flight controller for small quad-copter drones</li>
     <li><b>RCDaemon</b> - a radio-control module for small quad-copter drones</li>
     <li><b>LaunchDaemon</b> - a programmable launch controller for model rockets</li>
@@ -62,5 +63,5 @@
   </ul>
 
   #### Email: simonmjnorris@gmail.com
-  #### Personal Website: 
+  #### <a href="https://simonnorris0.github.io">Personal Website</a>
   #### Last Updated: March 24, 2026
