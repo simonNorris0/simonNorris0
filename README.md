@@ -31,10 +31,10 @@
 
   # Independent Project Highlights (non-school projects):
   <ul>
-    <li>ChessMapper - a single-user program to study recorded chess games</li>
-    <li>FlightDaemon - a flight controller for small quad-copter drones</li>
-    <li>RCDaemon - a radio-control module for small quad-copter drones</li>
-    <li>LaunchDaemon - a programmable launch controller for model rockets</li>
-    <li>simonNorris0.github.io - personal webpage / webpage programming sandbox</li>
+    <li><b>ChessMapper</b> - a single-user program to study recorded chess games</li>
+    <li><b>FlightDaemon</b> - a flight controller for small quad-copter drones</li>
+    <li><b>RCDaemon</b> - a radio-control module for small quad-copter drones</li>
+    <li><b>LaunchDaemon</b> - a programmable launch controller for model rockets</li>
+    <li><b>simonNorris0.github.io</b> - personal webpage / webpage programming sandbox</li>
     <li>...</li>
   </ul>
