@@ -1,5 +1,35 @@
 ### About me
-  Simon Norris      
+  Simon Norris
+  2nd year computer science student - minor in applied mathematics.
+
+  Language fluency:
+  (1) Java
+  (2) C 
+  (3) Python
+
+  Interests:
+  Distributed computing
+  Network programming and engineering
+  Databases
+  Cloud computing
+  Operating systems
+  Data structures and numerical algorithms
+  Number theory and mathematical models
+  Quad-copter drones, model rockets, and chess
+
+  Course highlights:
+  Data structures / algorithms
+  Operating systems
+  UNIX administration
+  ...
+
+  Independent Project highlights (non-school projects):
+  ChessMapper - a single-user program to study recorded chess games
+  FlightDaemon - a flight controller for small quad-copter drones
+  RCDaemon - a radio-control module for small quad-copter drones
+  LaunchDaemon - a programmable launch controller for model rockets
+  simonNorris0.github.io - personal webpage / webpage programming sandbox
+  ...
 <!--
 **Ibenksy/Ibenksy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
