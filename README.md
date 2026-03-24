@@ -1,16 +1,16 @@
 ### About me
-  ## Simon Norris
+  # Simon Norris 
   ## 2nd year computer science student - minor in applied mathematics.
 
+  # Language Fluency:
   <ol>
-    Language fluency:
     <li>Java</li>
     <li>C/C++</li> 
     <li>Python</li>
   </ol>
 
+  # Interests:
   <ul>
-    Interests:
     <li>Distributed computing</li>
     <li>Network programming and engineering</li>
     <li>Databases</li>
@@ -22,16 +22,16 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 
+  # Course Highlights:
   <ul>
-    Course highlights:
     <li>Data structures / algorithms</li>
     <li>Operating systems</li>
     <li>UNIX administration</li>
     <li>...</li>
   </ul>
 
+  # Independent Project Highlights (non-school projects):
   <ul>
-    Independent Project highlights (non-school projects):
     <li>ChessMapper - a single-user program to study recorded chess games</li>
     <li>FlightDaemon - a flight controller for small quad-copter drones</li>
     <li>RCDaemon - a radio-control module for small quad-copter drones</li>
