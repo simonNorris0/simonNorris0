@@ -73,6 +73,8 @@
   #### <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
   #### <a href="https://discord.gg/XbyB7hFS">Discord User</a>
   #### <a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
+  #### <a
+href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
   #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
   #
   #### Last Updated: March 25, 2026
