@@ -9,7 +9,7 @@
     <li><b>C/C++</b></li>
     <li><b>Shell Scripting (bash, csh, Powershell)</b></li>
     <li>Python</li>
-    <li>HTML/CSS/JavaScript</li>
+    <li>HTML/CSS/JavaScript/PHP</li>
     <li>Perl/Lisp</li>
   </ol>
 
