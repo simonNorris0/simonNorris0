@@ -4,6 +4,7 @@
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
 <br>
+<hr>
 <b>Language Fluency:</b>
   <ol>
     <li><b>Java</b></li>
