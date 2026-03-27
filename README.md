@@ -10,7 +10,7 @@
   <ol>
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
-    <li><b>Shell Scripting (bash, csh, Powershell)</b></li>
+    <li><b>Shell Scripting</b> (bash, csh, Powershell)</li>
     <li>HTML/CSS/<b>JavaScript</b></li>
     <li>Python</li>
     <li>Perl/Lisp</li>
