@@ -1,7 +1,7 @@
 # simonNorris0
-#### Simon Norris 
-#### 2nd Year Computer Science Student - minor in Applied Mathematics 
-#### (57/120 credits)
+### Simon Norris 
+<b>2nd Year Computer Science Student - minor in Applied Mathematics</b>
+<b>(57/120 credits)</b>
 #### Current GPA: 4.0/4.0 
 #
   # Language Fluency (ordered by proficiency):
