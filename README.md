@@ -16,7 +16,6 @@
     <li>Perl/Lisp</li>
   </ol>
 <br>
-<hr>
 # Interests:
   <ul>
     <li>Distributed computing</li>
