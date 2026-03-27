@@ -15,8 +15,9 @@
     <li>Python</li>
     <li>Perl/Lisp</li>
   </ol>
-
-##Interests:
+<br>
+<b>Interests:</b>
+<hr>
   <ul>
     <li>Distributed computing</li>
     <li>Network programming and servers</li>
@@ -27,7 +28,7 @@
     <li>Embedded systems / microcontrollers</li>
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
-
+<br>
 ## Address:
   #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
   #### <a href="https://simonnorris0.github.io">Personal Website</a>
