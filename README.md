@@ -16,8 +16,8 @@
     <li>Perl/Lisp</li>
   </ol>
 <br>
-<b>Interests:</b>
 <hr>
+<b>Interests:</b>
   <ul>
     <li>Distributed computing</li>
     <li>Network programming and servers</li>
@@ -29,13 +29,13 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 <br>
-## Address:
-  #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
-  #### <a href="https://simonnorris0.github.io">Personal Website</a>
-  #### <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
-  #### <a href="https://discord.gg/XbyB7hFS">Discord User</a>
-  #### <a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
-  #### <a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
-  #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
+<b>Address:>/b>
+Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
+<a href="https://simonnorris0.github.io">Personal Website</a>
+<a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
+<a href="https://discord.gg/XbyB7hFS">Discord User</a>
+<a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
+<a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
+<a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
 <hr>
 Last Updated: March 27, 2026
