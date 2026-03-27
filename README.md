@@ -3,7 +3,7 @@
 <p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
-<hr>
+<br>
 <p><b>Language Fluency:</b></p>
 <p>(ordered by proficiency)</p>
 <br>
@@ -15,7 +15,8 @@
     <li>Python</li>
     <li>Perl/Lisp</li>
   </ol>
-
+<br>
+<hr>
 # Interests:
   <ul>
     <li>Distributed computing</li>
