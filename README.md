@@ -4,9 +4,7 @@
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
 <br>
-<p><b>Language Fluency:</b></p>
-<p>(ordered by proficiency)</p>
-<br>
+<b>Language Fluency:</b>
   <ol>
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
@@ -29,13 +27,21 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 <br>
-<b>Address:>/b>
+<hr>
+<b>Address:</b>
+<br>
 Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
+<br>
 <a href="https://simonnorris0.github.io">Personal Website</a>
+<br>
 <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
+<br>
 <a href="https://discord.gg/XbyB7hFS">Discord User</a>
+<br>
 <a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
+<br>
 <a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
+<br>
 <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
 <hr>
 Last Updated: March 27, 2026
