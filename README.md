@@ -44,5 +44,6 @@ Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
 <a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
 <br>
 <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
+<br>
 <hr>
 Last Updated: March 27, 2026
