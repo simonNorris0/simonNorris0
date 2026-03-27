@@ -15,7 +15,6 @@
     <li>Python</li>
     <li>Perl/Lisp</li>
   </ol>
-<br>
 # Interests:
   <ul>
     <li>Distributed computing</li>
