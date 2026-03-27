@@ -8,8 +8,8 @@
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
     <li><b>Shell Scripting (bash, csh, Powershell)</b></li>
+    <li>HTML/CSS/<b>JavaScript</b></li>
     <li>Python</li>
-    <li>HTML/CSS/JavaScript</li>
     <li>Perl/Lisp</li>
   </ol>
 
@@ -25,14 +25,6 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 
-  # Course Highlights:
-  <ul>
-    <li>Data structures / algorithms</li>
-    <li>Operating systems</li>
-    <li>UNIX administration</li>
-    <li>...</li>
-  </ul>
-
   # Address:
   #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
   #### <a href="https://simonnorris0.github.io">Personal Website</a>
@@ -42,4 +34,4 @@
   #### <a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
   #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
   #
-  #### Last Updated: March 25, 2026
+  #### Last Updated: March 27, 2026
