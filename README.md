@@ -9,7 +9,7 @@
     <li><b>C/C++</b></li>
     <li><b>Shell Scripting (bash, csh, Powershell)</b></li>
     <li>Python</li>
-    <li>HTML/CSS/JavaScript/PHP</li>
+    <li>HTML/CSS/JavaScript</li>
     <li>Perl/Lisp</li>
   </ol>
 
@@ -30,40 +30,6 @@
     <li>Data structures / algorithms</li>
     <li>Operating systems</li>
     <li>UNIX administration</li>
-    <li>...</li>
-  </ul>
-
-  # Independent Project Highlights (non-school projects):
-  <ul>
-    <li><a href="https://github.com/simonNorris0/ChessMapper"><b>ChessMapper</b></a> - 
-      a single-user program to study recorded chess games</li>
-    <li><a href="https://github.com/simonNorris0/Flightdaemon"><b>FlightDaemon</b></a> - 
-      a flight controller for small quad-copter drones</li>
-    <li><a href="https://github.com/simonNorris0/RCDaemon"><b>RCDaemon</b></a> - 
-      a radio-control module for small quad-copter drones</li>
-    <li><a href="https://github.com/simonNorris0/LaunchDaemon"><b>LaunchDaemon</b></a> - 
-      a programmable launch controller for model rockets</li>
-    <li><a href="https://github.com/simonNorris0/simonNorris0.github.io">
-      <b>simonNorris0.github.io</b></a> - personal webpage / web programming sandbox</li>
-    <li>...</li>
-  </ul>
-
-  # Work Experience / Education:
-  <ul>
-    <li><b>[September 2023 - Present]</b><br> 
-      Demonstratable profficiency with <b>remote work</b> during distance education.<br>
-      <b>Athabasca University - BSc. Computing and Information Systems - minor in 
-        Applied Mathematics</b></li>
-    <li>...</li>
-  </ul>
-
-  # Awards and Scholarships:
-  <ul>
-    <li>...</li>
-  </ul>
-
-  # Publications:
-  <ul>
     <li>...</li>
   </ul>
 
