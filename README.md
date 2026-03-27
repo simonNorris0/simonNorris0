@@ -3,7 +3,7 @@
 <p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
-#
+<hr>
 # Language Fluency (ordered by proficiency):
   <ol>
     <li><b>Java</b></li>
