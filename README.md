@@ -19,7 +19,7 @@
 <b>Interests:</b>
   <ul>
     <li>Distributed computing</li>
-    <li>Network programming and servers</li>
+    <li>Network programming</li>
     <li>Databases</li>
     <li>Cloud computing</li>
     <li>Operating systems and computer architecture</li>
@@ -30,7 +30,6 @@
 <br>
 <hr>
 <b>Address:</b>
-<br>
 Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
 <br>
 <a href="https://simonnorris0.github.io">Personal Website</a>
