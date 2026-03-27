@@ -1,5 +1,5 @@
 # simonNorris0
-### Simon Norris 
+<p>Simon Norris</p>
 <p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
@@ -34,5 +34,5 @@
   #### <a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
   #### <a href="https://codeforces.com/profile/simonNorris0">CodeForces Profile</a>
   #### <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
-  #
-  #### Last Updated: March 27, 2026
+<hr>
+Last Updated: March 27, 2026
