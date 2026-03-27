@@ -4,7 +4,7 @@
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
 #
-  # Language Fluency (ordered by proficiency):
+# Language Fluency (ordered by proficiency):
   <ol>
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
@@ -14,7 +14,7 @@
     <li>Perl/Lisp</li>
   </ol>
 
-  # Interests:
+# Interests:
   <ul>
     <li>Distributed computing</li>
     <li>Network programming and servers</li>
@@ -26,7 +26,7 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 
-  # Address:
+# Address:
   #### Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
   #### <a href="https://simonnorris0.github.io">Personal Website</a>
   #### <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
