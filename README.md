@@ -4,7 +4,7 @@
 <p>(57/120 credits)</p>
 <p><b>Current GPA: 4.0/4.0</b></p>
 <hr>
-# Language Fluency (ordered by proficiency):
+<b>Language Fluency (ordered by proficiency):</b>
   <ol>
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
