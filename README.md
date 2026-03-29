@@ -29,7 +29,7 @@
 <hr>
 <b>Addresses:</b>
 <br>
-Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
+Email: <a href="mailto:simonmjnorris@gmail.com">simonmjnorris@gmail.com</a>
 <br>
 <a href="https://simonnorris0.github.io">Personal Website</a>
 <br>
