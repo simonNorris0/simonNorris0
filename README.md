@@ -1,7 +1,6 @@
 # simonNorris0
 <p>Simon Norris</p>
 <p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
-<br>
 <hr>
 <b>Language Fluency:</b>
   <ol>
@@ -12,7 +11,6 @@
     <li>Python</li>
     <li>Perl/Lisp</li>
   </ol>
-<br>
 <hr>
 <b>Interests:</b>
   <ul>
@@ -25,7 +23,6 @@
     <li>Embedded systems / microcontrollers</li>
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
-<br>
 <hr>
 <b>Addresses:</b>
 <br>
