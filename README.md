@@ -27,7 +27,7 @@
   </ul>
 <br>
 <hr>
-<b>Address:</b>
+<b>Addresses:</b>
 <br>
 Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
 <br>
