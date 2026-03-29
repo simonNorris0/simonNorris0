@@ -44,4 +44,4 @@ Email: <a href="mailto:simonmjnorris@gmail.com">simonmjnorris@gmail.com</a>
 <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
 <br>
 <hr>
-Last Updated: March 27, 2026
+Last Updated: March 29, 2026
