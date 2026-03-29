@@ -1,8 +1,6 @@
 # simonNorris0
 <p>Simon Norris</p>
 <p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
-<p>(57/120 credits)</p>
-<p><b>Current GPA: 4.0/4.0</b></p>
 <br>
 <hr>
 <b>Language Fluency:</b>
@@ -30,6 +28,7 @@
 <br>
 <hr>
 <b>Address:</b>
+<br>
 Email: <a href="mailto:simonmjnorris@gmail.com">Simon Norris</a>
 <br>
 <a href="https://simonnorris0.github.io">Personal Website</a>
