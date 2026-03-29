@@ -15,12 +15,12 @@
 <b>Interests:</b>
   <ul>
     <li>Distributed computing</li>
-    <li>Network programming</li>
+    <li>Computer networks</li>
     <li>Databases</li>
     <li>Cloud computing</li>
     <li>Operating systems and computer architecture</li>
     <li>Number theory and data structures</li>
-    <li>Embedded systems / microcontrollers</li>
+    <li>Embedded systems and microcontrollers</li>
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 <hr>
