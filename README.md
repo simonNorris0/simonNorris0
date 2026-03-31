@@ -6,7 +6,6 @@
     <li><b>Shell Scripting</b> (bash, csh, Powershell)</li>
     <li>HTML/CSS/<b>JavaScript</b></li>
     <li>Python</li>
-    <li>Perl/Lisp</li>
   </ol>
 <hr>
 <b>Interests:</b>
@@ -33,4 +32,4 @@
 <a href="https://www.chess.com/member/mathdaemon">Chess.com Profile</a>
 <br>
 <hr>
-Last Updated: March 29, 2026
+Last Updated: March 31, 2026
