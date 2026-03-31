@@ -1,7 +1,4 @@
 # simonNorris0
-<p>Simon Norris</p>
-<p>2nd Year Computer Science Student - minor in Applied Mathematics</p>
-<hr>
 <b>Language Fluency:</b>
   <ol>
     <li><b>Java</b></li>
@@ -24,15 +21,10 @@
     <li>Quad-copter drones, model rockets, and chess</li>
   </ul>
 <hr>
-<b>Addresses:</b>
-<br>
-Email: <a href="mailto:simonmjnorris@gmail.com">simonmjnorris@gmail.com</a>
 <br>
 <a href="https://simonnorris0.github.io">Personal Website</a>
 <br>
 <a href="https://www.linkedin.com/in/simonNorris0">LinkedIn Profile</a>
-<br>
-<a href="https://discord.gg/XbyB7hFS">Discord User</a>
 <br>
 <a href="https://leetcode.com/u/simonNorris0/">LeetCode Profile</a>
 <br>
