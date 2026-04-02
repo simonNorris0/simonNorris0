@@ -3,7 +3,7 @@
   <ol>
     <li><b>Java</b></li>
     <li><b>C/C++</b></li>
-    <li><b>Shell Scripting</b> (bash, csh, Powershell)</li>
+    <li><b>Shell Scripting</b> (bash/sh, csh, PowerShell)</li>
     <li>HTML/CSS/<b>JavaScript</b></li>
     <li>Python</li>
   </ol>
