@@ -15,7 +15,6 @@
     <li>Distributed computing</li>
     <li>Database optimization</li>
     <li>Computational methods</li>
-    <hr>
     <li>Linear Algebra</li>
     <li>Combinatorics</li>
     <li>Number Theory</li>
