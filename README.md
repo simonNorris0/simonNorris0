@@ -2,7 +2,7 @@
 <b>Language Fluency:</b>
   <ol>
     <li><b>Java</b></li>
-    <li><b>C/C++</b></li>
+    <li><b>C</b></li>
     <li><b>Shell Scripting</b> (bash/sh, csh, PowerShell)</li>
     <li>HTML/CSS/<b>JavaScript</b></li>
     <li>Python</li>
