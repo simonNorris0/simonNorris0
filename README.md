@@ -10,10 +10,11 @@
 <hr>
 <b>Acadmic/Professional Interests:</b>
   <ul>
-    <li>Operating systems and computer architecture</li>
-    <li>Distributed and cloud computing</li>
+    <li>Operating system data structures</li>
     <li>Computer networks and computer security</li>
-    <li>Databases</li>
+    <li>Distributed computing</li>
+    <li>Database optimization</li>
+    <li>Computational methods</li>
     <hr>
     <li>Linear Algebra</li>
     <li>Combinatorics</li>
@@ -25,6 +26,7 @@
     <li>Quad-copter drones and model rockets</li>
     <li>Chess</li>
     <li>Astronomy</li>
+    <li>Web programming and blogging</li>
   </ul>
 <hr>
 <br>
