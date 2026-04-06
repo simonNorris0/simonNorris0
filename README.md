@@ -8,16 +8,23 @@
     <li>Python</li>
   </ol>
 <hr>
-<b>Interests:</b>
+<b>Acadmic/Professional Interests:</b>
   <ul>
-    <li>Distributed computing</li>
-    <li>Computer networks</li>
-    <li>Databases</li>
-    <li>Cloud computing</li>
     <li>Operating systems and computer architecture</li>
-    <li>Number theory and data structures</li>
+    <li>Distributed and cloud computing</li>
+    <li>Computer networks and computer security</li>
+    <li>Databases</li>
+    <hr>
+    <li>Linear Algebra</li>
+    <li>Combinatorics</li>
+    <li>Number Theory</li>
+  </ul>
+<b>Hobbies:</b>
+  <ul>
     <li>Embedded systems and microcontrollers</li>
-    <li>Quad-copter drones, model rockets, and chess</li>
+    <li>Quad-copter drones and model rockets</li>
+    <li>Chess</li>
+    <li>Astronomy</li>
   </ul>
 <hr>
 <br>
