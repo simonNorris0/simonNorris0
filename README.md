@@ -1,11 +1,11 @@
 # simonNorris0
 <b>Language Fluency:</b>
   <ol>
-    <li><b>Java</b></li>
+    <li><b>Java (3 yrs of formal experience)</b> (high-degree of feature, syntax, and built-in library knowledge, able to review others code, makes use of various libraries)</li>
     <li><b>C</b></li>
     <li><b>Shell Scripting</b> (bash/sh, csh, PowerShell)</li>
     <li><b>JavaScript</b></li>
-    <li>Python</li>
+    <li>Python (< 1 yr of formal experience) (programs with a reference, low-degree of feature, syntax, and built-in library knowledge)</li>
   </ol>
 <hr>
 <b>Acadmic/Professional Interests:</b>
