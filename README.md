@@ -13,7 +13,7 @@
     <li>Operating system data structures</li>
     <li>Computer networks and computer security</li>
     <li>Distributed computing</li>
-    <li>Database optimization</li>
+    <li>Distributed databased</li>
     <li>Computational methods</li>
     <li>Linear Algebra</li>
     <li>Combinatorics</li>
