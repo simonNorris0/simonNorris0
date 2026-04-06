@@ -23,6 +23,8 @@
 <b>Hobbies:</b>
   <ul>
     <li>Embedded systems and microcontrollers</li>
+    <li>Microelectronics</li>
+    <li>Radio frequency engineering</li>
     <li>Quad-copter drones and model rockets</li>
     <li>Chess</li>
     <li>Astronomy</li>
